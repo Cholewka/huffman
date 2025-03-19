@@ -1,0 +1,32 @@
+--- 0
+Huffman coding
+
+(1) Compress file
+(2) Decompress file
+(3) Manual
+--- 1
+Opened a compression submenu. Proceed with instructions to compress
+your file using Huffman coding.
+
+Be aware: we can compress only files containing ASCII-coded characters!
+--- 2
+Opened a decompression submenu. Proceed with instructions to decompress
+your file using Huffman coding.
+--- 3
+Huffman coding manual
+
+The program de facto does two tasks. With Huffman coding algorithm it
+compresses and decompresses files that are provided.
+
+In main menu, besides manual, are two options to chose from. Options may
+be chosen in every moment when the program asks for them, for example now.
+
+Available options to choose:
+
+(1) - compress file. The program will ask for path to the file that you want
+to compress and the path to the output file, that will receive compressed text.
+
+(2) - decompress file. The program will ask for path to the file that you want
+to decompress and the path to the output file, that will receive decompressed text.
+
+Enter 0 to get back into the main menu.
